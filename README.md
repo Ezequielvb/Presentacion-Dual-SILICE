@@ -25,9 +25,9 @@ La exposición está dividida en **tres vídeos**: una parte común sobre la emp
 
 | Parte | Contenido | Duración máx. | Enlace |
 | :-- | :-- | :-- | :-- |
-| **Común — Sílice** | Introducción a la empresa, sector, proyectos y contexto de las prácticas | 5 min | **[URL del vídeo común — completar]** |
-| **Individual — Ezequiel Vargas Berrocal** | Tareas, herramientas, aprendizajes y valoración personal | 5 min | **[URL del vídeo individual de Ezequiel — completar]** |
-| **Individual — David Bellón Payer** | Tareas, herramientas, aprendizajes y valoración personal | 5 min | **[URL del vídeo individual de David — completar]** |
+| **Común — Sílice** | Introducción a la empresa, sector, proyectos y contexto de las prácticas | 5 min | **https://drive.google.com/drive/folders/1DBHf10vJXbCHSDrVDhgK7tZ4AEYaIFf_?usp=sharing** |
+| **Individual — Ezequiel Vargas Berrocal** | Tareas, herramientas, aprendizajes y valoración personal | 5 min | **https://drive.google.com/drive/folders/1Cgcc3ZXRRJY0Wo8XuOP4aZMJaCbN5YGh?usp=sharing** |
+| **Individual — David Bellón Payer** | Tareas, herramientas, aprendizajes y valoración personal | 5 min | **https://drive.google.com/drive/folders/1dJDHbsi7iolI9mYnAIhLouPOuXCEuVU6?usp=sharing** |
 
 **Orden recomendado de visionado:** vídeo común → vídeo individual de cada participante.
 
