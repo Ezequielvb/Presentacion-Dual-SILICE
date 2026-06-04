@@ -93,7 +93,6 @@ Desarrollo **frontend** en Angular dentro del proyecto ITACA, centrado en la exp
 - **APIs:** Consumo de REST con `HttpClient`, interceptores JWT
 - **Testing:** Jasmine, Karma; Cypress para pruebas E2E
 - **Entorno:** Docker Compose, Node.js, npm
-- **Comunicación y gestión:** [Teams / Slack / Jira — completar si aplica]
 
 ### Conocimientos adquiridos por módulo profesional
 
