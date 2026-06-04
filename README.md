@@ -120,78 +120,50 @@ La experiencia dual en Sílice me ha permitido aplicar en un proyecto real lo ap
 
 ## Actividad individual — David Bellón Payer
 
-> **Plantilla:** misma estructura y contenido base que la de Ezequiel. David debe **personalizar** rol, tareas concretas por semana, herramientas si difieren y valoración personal.
-
 ### Rol y responsabilidades
 
-Desarrollo **frontend** en Angular dentro del proyecto ITACA *(indicar aquí tu área y tareas concretas si difieren)*.
+Desarrollo **frontend** en Angular dentro del proyecto ITACA, centrado principalmente en la parte de **ciudadano** del portal: perfil del candidato, currículum, datos personales, seguridad, foto de perfil, completitud del perfil y navegación entre secciones.
+
+También participé en tareas comunes del frontend, como organización de servicios y modelos por dominio, validaciones reutilizables, gestión de errores de API, componentes compartidos, estilos globales y mejora visual de pantallas.
 
 ### Tareas desempeñadas y temporalización
 
 | Periodo | Tareas principales |
 | :-- | :-- |
-| **Semanas 1–4** | Integración en el equipo, configuración del entorno local (Angular, Docker), familiarización con la arquitectura ITACA y el flujo Git del proyecto. |
-| **Semanas 5–10** | Desarrollo de **login y registro** (ciudadano y empresa): formularios reactivos, validaciones, manejo de errores de backend e integración con la API REST y JWT. |
-| **Semanas 11–16** | Implementación y mejora del **dashboard de empresa** y del **perfil de empresa**: diseño de interfaz, componentes reutilizables, cabeceras y navegación del área privada. |
-| **Semanas 17–22** | Refactorización UI/UX del dashboard y perfil, integración de **captcha** en flujos de autenticación, corrección de incidencias y merges con la rama de desarrollo del equipo. |
-| **Semanas 23–28** | Pruebas funcionales, revisión de código con el equipo, ajustes de accesibilidad y consistencia visual, documentación de cambios y preparación de la exposición dual. |
-
-> Ajusta las semanas y las tareas según tu calendario real de FCT y lo que hayas hecho tú.
+| **Semanas 1–3** | Fase inicial de adaptación: revisión de documentación técnica de la empresa, introducción al stack backend con PHP y Yii2, pruebas técnicas con Yii2 Advanced, migraciones, modelos, controladores, vistas y endpoints. Configuración del entorno local con Docker, Git, GitLab, MySQL y phpMyAdmin. |
+| **Semanas 4–8** | Primer contacto con el proyecto ITACA. Desarrollo de una versión inicial propia del frontend para experimentar con diseño, flujos de usuario y consumo de la API real. Pruebas de endpoints con Hoppscotch/Postman, revisión de respuestas JSON, detección de inconsistencias y comunicación de errores encontrados en la API. |
+| **Semanas 9–13** | Trabajo sobre repositorios reales del proyecto, conectado al backend de la empresa y al entorno Dockerizado. Desarrollo y mejora de la parte de ciudadano: perfil, datos personales, seguridad, foto de perfil, currículum, completitud del perfil y navegación entre apartados. |
+| **Semanas 14–17** | Refactorización y mejora de mantenibilidad: separación de servicios y modelos por dominio, validadores reutilizables, gestión centralizada de errores, uso de variables CSS, revisión de componentes compartidos, corrección de incidencias visuales y funcionales, pruebas de integración con backend y preparación de la exposición dual. |
 
 ### Herramientas utilizadas
 
 - **IDE:** Visual Studio Code / Cursor
-- **Lenguajes y frameworks:** TypeScript, Angular 21, HTML, SCSS/CSS, Bootstrap 5
+- **Lenguajes y frameworks:** TypeScript, Angular, HTML, CSS, Tailwind, PHP, Yii2
 - **Control de versiones:** Git, GitLab
-- **APIs:** Consumo de REST con `HttpClient`, interceptores JWT
-- **Testing:** Jasmine, Karma; Cypress para pruebas E2E
-- **Entorno:** Docker Compose, Node.js, npm
-- **Comunicación y gestión:** [Teams / Slack / Jira — completar si aplica]
+- **APIs:** Consumo de API REST, autenticación JWT, pruebas con Hoppscotch/Postman
+- **Entorno:** Docker Compose, Node.js, npm, MySQL, phpMyAdmin
+- **Buenas prácticas:** variables de entorno, separación por dominios, validaciones reutilizables, componentes compartidos y gestión de errores
 
 ### Conocimientos adquiridos por módulo profesional
 
 | Módulo | Aprendizajes en la estancia |
 | :-- | :-- |
-| **ADA** (Acceso a Datos) | Consumo de API REST, serialización JSON, gestión de respuestas y errores HTTP desde el cliente Angular. |
-| **DI** (Desarrollo de Interfaces) | Diseño e implementación de interfaces responsivas, formularios reactivos, componentes modulares y mejora de UX en dashboard y perfil de empresa. |
-| **PMDM** (Programación Multimedia y Dispositivos Móviles) | Adaptación de layouts y componentes a distintos viewports; criterios de usabilidad en aplicaciones web. |
-| **PSP** (Programación de Servicios y Procesos) | Integración frontend–backend, autenticación con tokens JWT, flujos asíncronos y manejo de estados de carga y error. |
-| **SGE** (Sistemas de Gestión Empresarial) | Comprensión del ciclo de vida de ofertas de empleo, perfiles de empresa y procesos de selección dentro de una plataforma de gestión. |
-| **IPE / FCT** | Trabajo en entorno profesional real, metodología ágil en equipo, comunicación con compañeros y tutoría, y planificación de tareas en un proyecto de producción. |
+| **Desarrollo Web en Entorno Cliente** | Trabajo con Angular, componentes, rutas, formularios reactivos, servicios, consumo de APIs, validaciones, gestión de errores y actualización de vistas con datos reales del backend. |
+| **Desarrollo Web en Entorno Servidor** | Refuerzo de PHP y Yii2 mediante pruebas técnicas, migraciones, modelos, controladores, endpoints y comprensión de respuestas JSON, validaciones y errores backend. |
+| **Despliegue de Aplicaciones Web** | Uso de Docker y Docker Compose para levantar servicios del proyecto, configuración de puertos, variables de entorno, conexión con API, base de datos y servicios auxiliares. |
+| **Diseño de Interfaces Web** | Mejora visual de pantallas del portal ciudadano, diseño responsive, formularios, modales, tarjetas, mensajes de usuario, uso de Tailwind y variables CSS para mantener coherencia visual. |
+| **Inglés profesional** | Consulta de documentación técnica de Angular, Yii2, Docker y librerías; interpretación de errores; uso de terminología técnica en código, ramas, commits, servicios y modelos. |
+| **Itinerario Personal para la Empleabilidad II** | Adaptación a un entorno profesional real, comunicación de incidencias, petición de feedback, responsabilidad sobre cambios en un proyecto compartido e iniciativa para proponer mejoras. También reflexión sobre el impacto de la digitalización y soluciones tecnológicas como las de gobierno inteligente y ciudades digitales. |
+| **Módulo optativo — Desarrollo Full-Stack** | Comprensión del flujo completo de una funcionalidad: frontend, API, backend, base de datos, validaciones, errores, entorno Docker y pruebas con datos reales. |
 
 ### Valoración personal
 
-La experiencia dual en Sílice me ha permitido aplicar en un proyecto real lo aprendido en el ciclo, especialmente en **interfaces web** y **integración con servicios**. Destaco el trabajo en ITACA, donde he visto de cerca cómo se organiza un producto con varios desarrolladores, ramas y revisiones.
+La experiencia dual en Sílice me ha permitido aplicar en un proyecto real muchos de los contenidos del ciclo, especialmente en **desarrollo frontend**, integración con APIs y diseño de interfaces.
 
-**Aspectos positivos:** entorno profesional, proyecto con stack actual (Angular 21), tutorización del equipo y sensación de aportar código que se integra en el producto.
+Destaco el trabajo en ITACA sobre la parte de ciudadano, donde he podido mejorar pantallas, conectar funcionalidades con el backend, revisar errores reales y entender mejor cómo se organiza un proyecto profesional con varios desarrolladores, ramas y repositorios compartidos.
 
-**Dificultades superadas:** adaptación a una codebase grande ya existente, resolución de conflictos en Git y alineación con convenciones del equipo.
+**Aspectos positivos:** trabajar en un entorno real, usar tecnologías actuales, recibir feedback técnico, aprender de una codebase existente y ver cómo se integran frontend, backend, base de datos y Docker en un mismo proyecto.
 
-**Proyección:** me gustaría seguir especializándome en desarrollo *(frontend / backend / área que corresponda)* y profundizar en buenas prácticas de desarrollo y testing.
+**Dificultades superadas:** adaptación a una arquitectura grande, consumo de APIs reales, detección de errores backend/frontend, organización del código para que fuera mantenible y coordinación con el flujo de trabajo del equipo.
 
----
-
-## Material adicional en este repositorio
-
-| Recurso | Descripción |
-| :-- | :-- |
-| `docs/` | Diapositivas, capturas o documentación complementaria *(añadir archivos si procede)* |
-| Proyecto ITACA (frontend) | Código desarrollado durante las prácticas — repositorio interno de Sílice / GitLab *(enlace interno; no publicar si la empresa no lo autoriza)* |
-
----
-
-## Cumplimiento de requisitos (checklist)
-
-- [x] `README.md` en la raíz con información para evaluar la estancia
-- [x] Parte común de la empresa documentada
-- [x] Actividad individual por participante (tareas, semanas, herramientas, módulos, valoración)
-- [ ] Enlaces a los vídeos insertados en la tabla superior
-- [ ] Material complementario subido al repositorio (si aplica)
-
----
-
-## Contacto
-
-- **Ezequiel Vargas Berrocal** — `ezequielvargasb11@gmail.com`
-- **David Bellón Payer** — *[email — completar]*
-- **Repositorio de entrega:** [github.com/Ezequielvb/Presentacion-Dual-SILICE](https://github.com/Ezequielvb/Presentacion-Dual-SILICE)
+**Proyección:** me gustaría seguir especializándome en desarrollo frontend, profundizando en Angular, arquitectura de aplicaciones web, buenas prácticas de código y desarrollo full-stack.
