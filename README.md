@@ -77,13 +77,10 @@ Desarrollo **frontend** en Angular dentro del proyecto ITACA, centrado en la exp
 
 | Periodo | Tareas principales |
 | :-- | :-- |
-| **Semanas 1–4** | Integración en el equipo, configuración del entorno local (Angular, Docker), familiarización con la arquitectura ITACA y el flujo Git del proyecto. |
-| **Semanas 5–10** | Desarrollo de **login y registro** (ciudadano y empresa): formularios reactivos, validaciones, manejo de errores de backend e integración con la API REST y JWT. |
-| **Semanas 11–16** | Implementación y mejora del **dashboard de empresa** y del **perfil de empresa**: diseño de interfaz, componentes reutilizables, cabeceras y navegación del área privada. |
-| **Semanas 17–22** | Refactorización UI/UX del dashboard y perfil, integración de **captcha** en flujos de autenticación, corrección de incidencias y merges con la rama de desarrollo del equipo. |
-| **Semanas 23–28** | Pruebas funcionales, revisión de código con el equipo, ajustes de accesibilidad y consistencia visual, documentación de cambios y preparación de la exposición dual. |
-
-> Ajusta las semanas si tu calendario real de FCT fue distinto.
+| **Semanas 1–3** | Fase inicial de adaptación: revisión de documentación técnica de la empresa, introducción al stack backend con PHP y Yii2, pruebas técnicas con Yii2 Advanced, migraciones, modelos, controladores, vistas y endpoints. Configuración del entorno local con Docker, Git, GitLab, MySQL y phpMyAdmin. |
+| **Semanas 4–8** | Primer contacto con el proyecto ITACA. Desarrollo de una versión inicial propia del frontend para experimentar con diseño, flujos de usuario y consumo de la API real. Pruebas de endpoints con Hoppscotch/Postman, revisión de respuestas JSON, detección de inconsistencias y comunicación de errores encontrados en la API. |
+| **Semanas 9–13** | Trabajo sobre repositorios reales del proyecto, conectado al backend de la empresa y al entorno Dockerizado. Desarrollo y mejora de la parte de **empresa**: dashboard, perfil corporativo, gestión de ofertas, candidatos, mis ofertas y navegación entre apartados. |
+| **Semanas 14–17** | Refactorización y mejora de mantenibilidad: separación de servicios y modelos por dominio, validadores reutilizables, gestión centralizada de errores, uso de variables CSS, revisión de componentes compartidos, corrección de incidencias visuales y funcionales, pruebas de integración con backend y preparación de la exposición dual. |
 
 ### Herramientas utilizadas
 
