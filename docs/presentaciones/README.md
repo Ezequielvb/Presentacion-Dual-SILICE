@@ -1,9 +1,11 @@
 # Presentaciones (PDF)
 
-Coloca aquí las diapositivas o presentaciones en PDF de la exposición dual:
+Archivos de diapositivas de la exposición dual (referenciados en el [README principal](../../README.md)):
 
-- `comun-silice.pdf` — parte común de la empresa (opcional)
-- `ezequiel-vargas-berrocal.pdf` — parte individual de Ezequiel (opcional)
-- `david-bellon-payer.pdf` — parte individual de David (opcional)
+| Archivo | Parte |
+| :-- | :-- |
+| `comun-silice.pdf` | Común — empresa Sílice e ITACA |
+| `ezequiel-vargas-berrocal.pdf` | Individual — Ezequiel Vargas Berrocal |
+| `david-bellon-payer.pdf` | Individual — David Bellón Payer |
 
-Los nombres son orientativos; usa los que prefieras siempre que quede claro en el `README.md` principal del repositorio.
+Coloca los tres PDF en esta carpeta con exactamente esos nombres de archivo.

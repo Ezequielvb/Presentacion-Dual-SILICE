@@ -163,3 +163,15 @@ Destaco el trabajo en ITACA sobre la parte de ciudadano, donde he podido mejorar
 **Dificultades superadas:** adaptación a una arquitectura grande, consumo de APIs reales, detección de errores backend/frontend, organización del código para que fuera mantenible y coordinación con el flujo de trabajo del equipo.
 
 **Proyección:** me gustaría seguir especializándome en desarrollo frontend, profundizando en Angular, arquitectura de aplicaciones web, buenas prácticas de código y desarrollo full-stack.
+
+---
+
+## Material adicional — Presentaciones (PDF)
+
+Diapositivas de la exposición en la carpeta [`docs/presentaciones/`](docs/presentaciones/):
+
+| Archivo | Parte | Autor |
+| :-- | :-- | :-- |
+| [`comun-silice.pdf`](docs/presentaciones/comun-silice.pdf) | Común — empresa Sílice e ITACA | Ezequiel Vargas Berrocal y David Bellón Payer |
+| [`ezequiel-vargas-berrocal.pdf`](docs/presentaciones/ezequiel-vargas-berrocal.pdf) | Individual | Ezequiel Vargas Berrocal |
+| [`david-bellon-payer.pdf`](docs/presentaciones/david-bellon-payer.pdf) | Individual | David Bellón Payer |
