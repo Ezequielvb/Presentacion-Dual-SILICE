@@ -15,7 +15,6 @@
 | **Vargas Berrocal, Ezequiel** | 2º DAM mañana | Desarrollo frontend en el proyecto ITACA |
 | **Bellón Payer, David** | 2º DAM mañana | Desarrollo frontend en el proyecto ITACA *(personalizar rol)* |
 
-> Si en la empresa hay varios participantes, comparten este repositorio. Cada persona tiene su propio vídeo individual y su apartado de actividad más abajo.
 
 ---
 
