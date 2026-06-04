@@ -13,7 +13,7 @@
 | Alumno/a | Ciclo | Rol en la estancia |
 | :-- | :-- | :-- |
 | **Vargas Berrocal, Ezequiel** | 2º DAM mañana | Desarrollo frontend en el proyecto ITACA |
-| **[Nombre del segundo participante]** | 2º DAM | **[Rol / área en Sílice — completar]** |
+| **Bellón Payer, David** | 2º DAM | **Desarrollo frontend en el proyecto ITACA** |
 
 > Si en la empresa hay varios participantes, comparten este repositorio. Cada persona tiene su propio vídeo individual y su apartado de actividad más abajo.
 
@@ -27,7 +27,7 @@ La exposición está dividida en **tres vídeos**: una parte común sobre la emp
 | :-- | :-- | :-- | :-- |
 | **Común — Sílice** | Introducción a la empresa, sector, proyectos y contexto de las prácticas | 5 min | **[URL del vídeo común — completar]** |
 | **Individual — Ezequiel Vargas Berrocal** | Tareas, herramientas, aprendizajes y valoración personal | 5 min | **[URL del vídeo individual de Ezequiel — completar]** |
-| **Individual — [Nombre del segundo participante]** | Tareas, herramientas, aprendizajes y valoración personal | 5 min | **[URL del vídeo individual — completar]** |
+| **Individual — David Bellón Payer** | Tareas, herramientas, aprendizajes y valoración personal | 5 min | **[URL del vídeo individual — completar]** |
 
 **Orden recomendado de visionado:** vídeo común → vídeo individual de cada participante.
 
@@ -118,7 +118,7 @@ La experiencia dual en Sílice me ha permitido aplicar en un proyecto real lo ap
 
 ---
 
-## Actividad individual — [Nombre del segundo participante]
+## Actividad individual — David Bellón Payer
 
 > **Completar** este apartado con la información del segundo alumno. Debe incluir las mismas secciones: rol, tareas por semanas, herramientas, módulos y valoración personal.
 
@@ -152,28 +152,4 @@ La experiencia dual en Sílice me ha permitido aplicar en un proyecto real lo ap
 
 [Completar]
 
----
 
-## Material adicional en este repositorio
-
-| Recurso | Descripción |
-| :-- | :-- |
-| `docs/` | Diapositivas, capturas o documentación complementaria *(añadir archivos si procede)* |
-| Proyecto ITACA (frontend) | Código desarrollado durante las prácticas — repositorio interno de Sílice / GitLab *(enlace interno; no publicar si la empresa no lo autoriza)* |
-
----
-
-## Cumplimiento de requisitos (checklist)
-
-- [x] `README.md` en la raíz con información para evaluar la estancia
-- [x] Parte común de la empresa documentada
-- [x] Actividad individual por participante (tareas, semanas, herramientas, módulos, valoración)
-- [ ] Enlaces a los vídeos insertados en la tabla superior
-- [ ] Material complementario subido al repositorio (si aplica)
-
----
-
-## Contacto
-
-- **Alumno:** Ezequiel Vargas Berrocal — `ezequielvargasb11@gmail.com`
-- **Repositorio de entrega:** [github.com/Ezequielvb/Presentacion-Dual-SILICE](https://github.com/Ezequielvb/Presentacion-Dual-SILICE)
