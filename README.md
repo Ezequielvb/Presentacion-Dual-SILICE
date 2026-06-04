@@ -95,9 +95,10 @@ Desarrollo **frontend** en Angular dentro del proyecto ITACA, centrado en la exp
 | :-- | :-- |
 | **ADA** (Acceso a Datos) | Consumo de API REST, serialización JSON, gestión de respuestas y errores HTTP desde el cliente Angular. |
 | **DI** (Desarrollo de Interfaces) | Diseño e implementación de interfaces responsivas, formularios reactivos, componentes modulares y mejora de UX en dashboard y perfil de empresa. |
-| **PMDM** (Programación Multimedia y Dispositivos Móviles) | Adaptación de layouts y componentes a distintos viewports; criterios de usabilidad en aplicaciones web. |
-| **PSP** (Programación de Servicios y Procesos) | Integración frontend–backend, autenticación con tokens JWT, flujos asíncronos y manejo de estados de carga y error. |
+| **PMDM** (Programación Multimedia y Dispositivos Móviles) | Adaptación de layouts y componentes a distintos viewports; criterios de usabilidad en aplicaciones web. Aplicación del patrón **Modelo-Vista-Controlador (MVC)**: **modelos** TypeScript para los datos, **vistas** en componentes y plantillas Angular, y **control** mediante servicios que coordinan la lógica de presentación. |
+| **PSP** (Programación de Servicios y Procesos) | Integración frontend–backend, autenticación con tokens JWT, flujos asíncronos y manejo de estados de carga y error. Organización del código con **MVC**: separación entre modelos de dominio, servicios como capa de coordinación y control de flujos, y componentes como capa de vista. |
 | **SGE** (Sistemas de Gestión Empresarial) | Comprensión del ciclo de vida de ofertas de empleo, perfiles de empresa y procesos de selección dentro de una plataforma de gestión. Creación de **usuarios de prueba** para validar flujos de negocio, limpiando y preparando datos con **pandas** antes de cargarlos en el entorno de pruebas. |
+| **Inglés** | Consulta de documentación técnica en inglés (Angular, Docker, Git, librerías y **pandas**); interpretación de mensajes de error y logs; uso de terminología técnica en código, ramas, commits, servicios y modelos. |
 | **IPE / FCT** | Trabajo en entorno profesional real, metodología ágil en equipo, comunicación con compañeros y tutoría, y planificación de tareas en un proyecto de producción. |
 
 ### Valoración personal
