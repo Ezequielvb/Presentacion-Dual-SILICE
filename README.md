@@ -13,7 +13,7 @@
 | Alumno/a | Ciclo | Rol en la estancia |
 | :-- | :-- | :-- |
 | **Vargas Berrocal, Ezequiel** | 2º DAM mañana | Desarrollo frontend en el proyecto ITACA |
-| **Bellón Payer, David** | 2º DAM mañana | Desarrollo frontend en el proyecto ITACA *(personalizar rol)* |
+| **Bellón Payer, David** | 2º DAM mañana | Desarrollo frontend en el proyecto ITACA |
 
 
 ---
